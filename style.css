@@ -12,6 +12,7 @@ body {
   background-color: rgb(37, 38, 39);
   color: white;
   background: url("images/image.jpeg");
+
 }
 
 section {
@@ -72,6 +73,10 @@ blockquote{
 .social {
   display: flex;
   justify-content: space-around;
+}
+footer{
+  text-align: center;
+  font-size: 20px;
 }
 
 footer .svg-inline--fa {
