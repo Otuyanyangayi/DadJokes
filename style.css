@@ -69,3 +69,17 @@ blockquote{
   padding: 0;
   font-size: 32px;
 }
+.social {
+  display: flex;
+  justify-content: space-around;
+}
+
+footer .svg-inline--fa {
+  color: salmon;
+  font-size: 65px;
+}
+
+footer .svg-inline--fa:hover {
+  color: #3c778a;
+}
+
