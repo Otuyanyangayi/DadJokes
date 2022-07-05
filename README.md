@@ -16,7 +16,7 @@
  
  # Built With
  This project has been bbuilt with HTML, CSS and JavaScript.
- API link -  https://icanhazdadjoke.com/
+ jokes link -  https://icanhazdadjoke.com/
  
  # Features 
  --------
